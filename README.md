@@ -94,122 +94,122 @@ Unofficial successor "Unvanquished": https://unvanquished.net
 ## Legal Information and Attribution
 Some assets may be derivative works or subject to different licenses. Please refer for author and license details. Note that some files may have been modified. Below is a list of files and their legal statuses.
 ***
-env\sm64\skybox_bk.jpg [2](#author-2) \
-env\sm64\skybox_dn.jpg [2](#author-2) \
-env\sm64\skybox_ft.jpg [2](#author-2) \
-env\sm64\skybox_lf.jpg [2](#author-2) \
-env\sm64\skybox_rt.jpg [2](#author-2) \
-env\sm64\skybox_up.jpg [2](#author-2) \
-levelshots\sm64.jpg [1](#author-1) \
-maps\sm64.map [1](#author-1) \
-models\mapobjects\sm64\sm64_fahne.md3 [1](#author-1) \
-models\mapobjects\sm64\yoshi\yoshi.mtl [3](#author-3) \
-models\mapobjects\sm64\yoshi\yoshi.obj [3](#author-3) \
-models\mapobjects\sm64\yoshi\yoshi_grp.png [3](#author-3) \
-models\mapobjects\sm64\yoshi\textures\4B5491CD_c.bmp [3](#author-3) \
-models\mapobjects\sm64\yoshi\textures\538BEAC7_c.bmp [3](#author-3) \
-scripts\shaderlist.txt [1](#author-1) \
-scripts\sm64.particle [1](#author-1) \
-scripts\sm64.shader [1](#author-1) \
-sounds\sm64\sm64_blank.wav [1](#author-1) \
-sounds\sm64\sm64_herewego.wav [4](#author-4) \
-sounds\sm64\sm64_doorclosed.wav [4](#author-4) \
-sounds\sm64\sm64_dooropen.wav [4](#author-4) \
-sounds\sm64\sm64_info.wav [4](#author-4) \
-sounds\sm64\sm64_nature.wav [4](#author-4) \
-sounds\sm64\sm64_waterfall.wav [4](#author-4) \
-sounds\sm64\sm64_waterfall2.wav [4](#author-4) \
-sounds\sm64\sm65_yoshi.wav [1](#author-1) \
-textures\sm64\castle_inside_sky.jpg [2](#author-2) \
-textures\sm64\castle_inside_sky_blue.jpg [1](#author-1) \
-textures\sm64\sm64_black.jpg [1](#author-1) \
-textures\sm64\sm64_blobtree.tga [2](#author-2) \
-textures\sm64\sm64_bruecke.tga [2](#author-2) \
-textures\sm64\sm64_castleinnerfloow.jpg [2](#author-2) \
-textures\sm64\sm64_castleinnerwall.jpg [2](#author-2) \
-textures\sm64\sm64_castlestones.jpg [2](#author-2) \
-textures\sm64\sm64_castlestones_detail.jpg [2](#author-2) \
-textures\sm64\sm64_castlestones_detail_2.jpg [2](#author-2) \
-textures\sm64\sm64_castlewall_1.jpg [2](#author-2) \
-textures\sm64\sm64_castlewall_2.jpg [2](#author-2) \
-textures\sm64\sm64_castlewallinner.jpg [2](#author-2) \
-textures\sm64\sm64_dach.jpg [2](#author-2) \
-textures\sm64\sm64_detail_cloud.tga [2](#author-2) \
-textures\sm64\sm64_detail_door_crap.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doorclosed.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doornumber0.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doornumber1.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doornumber2.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doornumber3.jpg [2](#author-2) \
-textures\sm64\sm64_detail_dooropen.jpg [2](#author-2) \
-textures\sm64\sm64_detail_doorstar.jpg [2](#author-2) \
-textures\sm64\sm64_detail_fahne.tga [2](#author-2) \
-textures\sm64\sm64_detail_gitter.tga [2](#author-2) \
-textures\sm64\sm64_detail_peach_window.tga [2](#author-2) \
-textures\sm64\sm64_detail_peach_window_inside.tga [2](#author-2) \
-textures\sm64\sm64_detail_railing.tga [2](#author-2) \
-textures\sm64\sm64_detail_tube.jpg [2](#author-2) \
-textures\sm64\sm64_detail_window.tga [2](#author-2) \
-textures\sm64\sm64_detail_zaun.tga [2](#author-2) \
-textures\sm64\sm64_door_1.jpg [2](#author-2) \
-textures\sm64\sm64_gold.jpg [2](#author-2) \
-textures\sm64\sm64_grass_1.jpg [2](#author-2) \
-textures\sm64\sm64_grass_2.jpg [2](#author-2) \
-textures\sm64\sm64_groud_spot.jpg [2](#author-2) \
-textures\sm64\sm64_groundcastle.jpg [2](#author-2) \
-textures\sm64\sm64_groundstarcastle.jpg [2](#author-2) \
-textures\sm64\sm64_groundstones.jpg [2](#author-2) \
-textures\sm64\sm64_groundstones_2.jpg [2](#author-2) \
-textures\sm64\sm64_paint1.jpg [2](#author-2) \
-textures\sm64\sm64_paint2.jpg [2](#author-2) \
-textures\sm64\sm64_paint3.jpg [2](#author-2) \
-textures\sm64\sm64_paint4.jpg [2](#author-2) \
-textures\sm64\sm64_piketree.tga [2](#author-2) \
-textures\sm64\sm64_rocks.jpg [2](#author-2) \
-textures\sm64\sm64_sand_1.jpg [2](#author-2) \
-textures\sm64\sm64_sand_2.jpg [2](#author-2) \
-textures\sm64\sm64_schild.jpg [2](#author-2) \
-textures\sm64\sm64_schild_wood.jpg [2](#author-2) \
-textures\sm64\sm64_sonne.jpg [1](#author-1) \
-textures\sm64\sm64_sonne_add.jpg [1](#author-1) \
-textures\sm64\sm64_wall_2_castle.jpg [2](#author-2) \
-textures\sm64\sm64_wallcastle.jpg [2](#author-2) \
-textures\sm64\sm64_wasserfall.tga [2](#author-2) \
-textures\sm64\sm64_water.tga [2](#author-2) \
-textures\sm64\sm64_water_schnell.tga [2](#author-2) \
-textures\sm64\sm64_wood.jpg [2](#author-2) \
-textures\sm64\sm64_wood_2.jpg [2](#author-2) \
-textures\sm64\sm64_zaun.tga [2](#author-2)
+env\sm64\skybox_bk.jpg [2](#Author-2) \
+env\sm64\skybox_dn.jpg [2](#Author-2) \
+env\sm64\skybox_ft.jpg [2](#Author-2) \
+env\sm64\skybox_lf.jpg [2](#Author-2) \
+env\sm64\skybox_rt.jpg [2](#Author-2) \
+env\sm64\skybox_up.jpg [2](#Author-2) \
+levelshots\sm64.jpg [1](#Author-1) \
+maps\sm64.map [1](#Author-1) \
+models\mapobjects\sm64\sm64_fahne.md3 [1](#Author-1) \
+models\mapobjects\sm64\yoshi\yoshi.mtl [3](#Author-3) \
+models\mapobjects\sm64\yoshi\yoshi.obj [3](#Author-3) \
+models\mapobjects\sm64\yoshi\yoshi_grp.png [3](#Author-3) \
+models\mapobjects\sm64\yoshi\textures\4B5491CD_c.bmp [3](#Author-3) \
+models\mapobjects\sm64\yoshi\textures\538BEAC7_c.bmp [3](#Author-3) \
+scripts\shaderlist.txt [1](#Author-1) \
+scripts\sm64.particle [1](#Author-1) \
+scripts\sm64.shader [1](#Author-1) \
+sounds\sm64\sm64_blank.wav [1](#Author-1) \
+sounds\sm64\sm64_herewego.wav [4](#Author-4) \
+sounds\sm64\sm64_doorclosed.wav [4](#Author-4) \
+sounds\sm64\sm64_dooropen.wav [4](#Author-4) \
+sounds\sm64\sm64_info.wav [4](#Author-4) \
+sounds\sm64\sm64_nature.wav [4](#Author-4) \
+sounds\sm64\sm64_waterfall.wav [4](#Author-4) \
+sounds\sm64\sm64_waterfall2.wav [4](#Author-4) \
+sounds\sm64\sm65_yoshi.wav [1](#Author-1) \
+textures\sm64\castle_inside_sky.jpg [2](#Author-2) \
+textures\sm64\castle_inside_sky_blue.jpg [1](#Author-1) \
+textures\sm64\sm64_black.jpg [1](#Author-1) \
+textures\sm64\sm64_blobtree.tga [2](#Author-2) \
+textures\sm64\sm64_bruecke.tga [2](#Author-2) \
+textures\sm64\sm64_castleinnerfloow.jpg [2](#Author-2) \
+textures\sm64\sm64_castleinnerwall.jpg [2](#Author-2) \
+textures\sm64\sm64_castlestones.jpg [2](#Author-2) \
+textures\sm64\sm64_castlestones_detail.jpg [2](#Author-2) \
+textures\sm64\sm64_castlestones_detail_2.jpg [2](#Author-2) \
+textures\sm64\sm64_castlewall_1.jpg [2](#Author-2) \
+textures\sm64\sm64_castlewall_2.jpg [2](#Author-2) \
+textures\sm64\sm64_castlewallinner.jpg [2](#Author-2) \
+textures\sm64\sm64_dach.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_cloud.tga [2](#Author-2) \
+textures\sm64\sm64_detail_door_crap.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doorclosed.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doornumber0.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doornumber1.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doornumber2.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doornumber3.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_dooropen.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_doorstar.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_fahne.tga [2](#Author-2) \
+textures\sm64\sm64_detail_gitter.tga [2](#Author-2) \
+textures\sm64\sm64_detail_peach_window.tga [2](#Author-2) \
+textures\sm64\sm64_detail_peach_window_inside.tga [2](#Author-2) \
+textures\sm64\sm64_detail_railing.tga [2](#Author-2) \
+textures\sm64\sm64_detail_tube.jpg [2](#Author-2) \
+textures\sm64\sm64_detail_window.tga [2](#Author-2) \
+textures\sm64\sm64_detail_zaun.tga [2](#Author-2) \
+textures\sm64\sm64_door_1.jpg [2](#Author-2) \
+textures\sm64\sm64_gold.jpg [2](#Author-2) \
+textures\sm64\sm64_grass_1.jpg [2](#Author-2) \
+textures\sm64\sm64_grass_2.jpg [2](#Author-2) \
+textures\sm64\sm64_groud_spot.jpg [2](#Author-2) \
+textures\sm64\sm64_groundcastle.jpg [2](#Author-2) \
+textures\sm64\sm64_groundstarcastle.jpg [2](#Author-2) \
+textures\sm64\sm64_groundstones.jpg [2](#Author-2) \
+textures\sm64\sm64_groundstones_2.jpg [2](#Author-2) \
+textures\sm64\sm64_paint1.jpg [2](#Author-2) \
+textures\sm64\sm64_paint2.jpg [2](#Author-2) \
+textures\sm64\sm64_paint3.jpg [2](#Author-2) \
+textures\sm64\sm64_paint4.jpg [2](#Author-2) \
+textures\sm64\sm64_piketree.tga [2](#Author-2) \
+textures\sm64\sm64_rocks.jpg [2](#Author-2) \
+textures\sm64\sm64_sand_1.jpg [2](#Author-2) \
+textures\sm64\sm64_sand_2.jpg [2](#Author-2) \
+textures\sm64\sm64_schild.jpg [2](#Author-2) \
+textures\sm64\sm64_schild_wood.jpg [2](#Author-2) \
+textures\sm64\sm64_sonne.jpg [1](#Author-1) \
+textures\sm64\sm64_sonne_add.jpg [1](#Author-1) \
+textures\sm64\sm64_wall_2_castle.jpg [2](#Author-2) \
+textures\sm64\sm64_wallcastle.jpg [2](#Author-2) \
+textures\sm64\sm64_wasserfall.tga [2](#Author-2) \
+textures\sm64\sm64_water.tga [2](#Author-2) \
+textures\sm64\sm64_water_schnell.tga [2](#Author-2) \
+textures\sm64\sm64_wood.jpg [2](#Author-2) \
+textures\sm64\sm64_wood_2.jpg [2](#Author-2) \
+textures\sm64\sm64_zaun.tga [2](#Author-2)
 ***
 
-{#author-1}
+### Author-1
 
-1. Author: [Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
 
-{#author-2}
+### Author-2
 
-2. Author: [GhostlyDark](https://evilgames.eu/) \
+[GhostlyDark](https://evilgames.eu/) \
 Content: [Super Mario 64 Reloaded Texture Pack](https://github.com/GhostlyDark/SM64-Reloaded) \
 License: Attribution License
 
-{#author-3}
+### Author-3
 
-3. Author: [Alec Pike](alec.pike@gmail.com) \
+[Alec Pike](alec.pike@gmail.com) \
 Content: Yoshi model and textures \
-License: Attribution License \
+License: Attribution License
 
-{#author-4}
+### Author-4
 
-4. Author: [Mappening ](https://github.com/MapMappening/sm64-pc-hq-sounds) 
+[Mappening ](https://github.com/MapMappening/sm64-pc-hq-sounds) 
 Content: sm64-pc-hq-sounds \
-License: Attribution License \
+License: Attribution License
 
-{#unknown}
+### Unknown-?
 
-- ? Author, Origin and License unknown \
+Author, Origin and License unknown \
 For this group and its associated files, the rights and claims of other parties under different legal provisions remain unaltered or are subject to their respective licensing regulations.
 
 ## Special Thanks:
