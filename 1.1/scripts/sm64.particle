@@ -1,0 +1,28 @@
+sm64/wasserfall
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/sm64/sm64_water_wasserfall
+			displacement 0 0 0 0
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 550
+			velocity 6 7 0 ~2
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~25
+			accelerationMagnitude 200
+			radius 0 110 160
+			alpha 500 .5 0
+			rotation 0 ~180 ~360
+			bounce 0.0
+			lifeTime 3500
+		}
+		count infinite
+		delay 0
+		period 150 - ~0%
+	}
+}
+
