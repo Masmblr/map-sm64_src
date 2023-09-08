@@ -182,29 +182,35 @@ textures\sm64\sm64_wood_2.jpg [2](#author-2) \
 textures\sm64\sm64_zaun.tga [2](#author-2)
 ***
 
+{#author-1}
+
 1. Author: [Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
-{#author-1}
+
+{#author-2}
 
 2. Author: [GhostlyDark](https://evilgames.eu/) \
 Content: [Super Mario 64 Reloaded Texture Pack](https://github.com/GhostlyDark/SM64-Reloaded) \
 License: Attribution License
 
+{#author-3}
+
 3. Author: [Alec Pike](alec.pike@gmail.com) \
 Content: Yoshi model and textures \
 License: Attribution License \
-{#author-2}
+
+{#author-4}
 
 4. Author: [Mappening ](https://github.com/MapMappening/sm64-pc-hq-sounds) 
 Content: sm64-pc-hq-sounds \
 License: Attribution License \
-{#author-4}
+
+{#unknown}
 
 - ? Author, Origin and License unknown \
 For this group and its associated files, the rights and claims of other parties under different legal provisions remain unaltered or are subject to their respective licensing regulations.
-{#unknown}
 
 ## Special Thanks:
 * id Software for Quake3
