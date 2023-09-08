@@ -1,8 +1,6 @@
 # SM64 - Game Level For Tremulous
 ![header](meta/header/header.jpg)
 
-[[toc]]
-
 ## Overview:
 SM64 is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/). This map utilizes the `Super Mario 64 Reloaded` texture pack by GhostlyDark. The `Yoshi model` is created by Alec Pike.
 
