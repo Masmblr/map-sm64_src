@@ -45,7 +45,7 @@ Map Description:
 | ------- | ------------- | ------: | -----------------: |
 | 0.1     | 09/12/2013  | alpha  | :x:        |
 | 1.0     | 27/01/2018  | stable | :x:        |     
-| 1.1     | 07/09/2023  | final | [💾](https://github.com/Masmblr/map-SM64_src/releases/tag/1.1) |
+| 1.1     | 07/09/2023  | final | [💾](https://github.com/Masmblr/map-SM64_src/releases/tag/v1.1) |
 
 ## How-To
 **Binary**:
@@ -54,7 +54,7 @@ Map Description:
 3. Start the Tremulous game and select "Create Server" with the desired map.
 
 **Source**:
-1. Download the [source release](https://github.com/Masmblr/map-SM64_src/releases/tag/1.1) and the [tremulous-common-files](https://github.com/Masmblr/tremulous-map-common/releases/tag/v1.0).
+1. Download the [source release](https://github.com/Masmblr/map-SM64_src/releases/tag/v1.1) and the [tremulous-common-files](https://github.com/Masmblr/tremulous-map-common/releases/tag/v1.0).
 2. Extract the files to the default installation directory. It should look like this:
 
 ```
