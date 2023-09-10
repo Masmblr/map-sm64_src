@@ -203,7 +203,7 @@ License: Attribution License
 
 ### Credit-4
 
-[Mappening ](https://github.com/MapMappening/sm64-pc-hq-sounds) \ 
+[Mappening ](https://github.com/MapMappening/sm64-pc-hq-sounds) \
 Content: sm64-pc-hq-sounds \
 License: Attribution License
 
