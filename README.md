@@ -41,11 +41,11 @@ Map Description:
 [<img src="meta/preview_levelshots/28.jpg" width="250"/>](meta/preview_levelshots/28.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 0.1     | 09/12/2013  | alpha  | :x:        |
-| 1.0     | 27/01/2018  | stable | :x:        |     
-| 1.1     | 07/09/2023  | final | [💾](https://github.com/Masmblr/map-SM64_src/releases/tag/v1.1) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 0.1     | 09/12/2013  | alpha  |
+| 1.0     | 27/01/2018  | stable |
+| 1.1     | 07/09/2023  | final |
 
 ## How-To
 **Binary**:
@@ -184,7 +184,7 @@ textures\sm64\sm64_zaun.tga [2](#Credit-2)
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
